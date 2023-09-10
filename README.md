@@ -1,6 +1,14 @@
-### Hello!
+## Hello World!
 
-I am Aadith.
+I am Aadith J Pamarthi, Student and Programming Enthusiast.
+
+Student at VelTech University (2023 - 2027) pursuing a degree in Computer Science & Engineering.
+
+Currently working on expanding my social network
+- You can reach me via DM on [Twitter](https://twitter.com/aadith_j)
+- Check out my now stagnant [Instagram](https://www.instagram.com/aj_thepro99/#)
+- Visit my Blog to get a sight for sore eyes [Half-Byte Dispatch](https://aspirad.hashnode.dev)
+
 
 This Readme is being set up. Please wait [...]
 
