@@ -9,6 +9,8 @@ Currently working on expanding my social network
 - Check out my now stagnant [Instagram](https://www.instagram.com/aj_thepro99/#)
 - Visit my Blog to get a sight for sore eyes [Half-Byte Dispatch](https://aspirad.hashnode.dev)
 
+### It doesn't matter how much work it requires, it has to be the definition of *Perfection*
+
 
 This Readme is being set up. Please wait [...]
 
