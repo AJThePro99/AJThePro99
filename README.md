@@ -17,7 +17,7 @@
 > *"To me, programming is my magic wand. It's plain wizardry - it's how I turn thoughts in my head into real  
 >  tools that people can actually use. Every project is a puzzle where clean code meets clever problem-solving."*
 
-Currently pursuing my B.Tech in **Computer Science & Engineering** at VelTech University (2023-2027).  
+Currently pursuing my Bachelor of Technology in **Computer Science & Engineering** at VelTech University (2023-2027).  
 I specialize in building systems that are as enjoyable to maintain as they are to use.
 
 ---
@@ -35,18 +35,18 @@ I specialize in building systems that are as enjoyable to maintain as they are t
 
 ---
 
-### 🧠 **Cognitive Horizon**
+### 🧠 **Technological Interests**
 
 - 🔥 **Current Focus:** Building ML-powered systems that enhance daily life  
 - ⚙️ **Tooling Up:** Low-level optimization techniques | Neural network fundamentals  
 - 🌌 **Future Frontier:** 
 
 ![Future](https://skillicons.dev/icons?i=go,rust,firebase,docker,blender,opencv&theme=dark)  
-  *(Actively cultivating these skills)*
+  *(Actively exploring and learning these technologies)*
 
 ---
 
-### 📜 **Creator's Manifesto**
+### 📜 **Motto?**
 
 ```python
 def materialize(idea):
@@ -60,7 +60,7 @@ def materialize(idea):
 
 ---
 
-### 📊 **Code Odyssey**
+### 📊 **Code Statistics**
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJThePro99&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)  
 
