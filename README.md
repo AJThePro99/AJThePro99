@@ -58,7 +58,7 @@ def materialize(idea):
 
 ### 📊 **Code Statistics**
 
-![](https://komarev.com/ghpvc/?username=AJThePro99&color=grey)
+![](https://komarev.com/ghpvc/?username=AJThePro99&style=flat-square)
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJThePro99&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)  
 
