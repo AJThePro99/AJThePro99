@@ -6,7 +6,7 @@
 
 <div align="center">
   
-**🎓 Crafting Code Wisdom** | **💻 Digital Toolsmith** | **🚀 Automation Architect**
+**🎓 Passionate Programmer** | **💻 Digital Toolsmith** | **🚀 Automation Enjoyer**
 
 </div>
 
@@ -37,16 +37,12 @@ I specialize in building systems that are as enjoyable to maintain as they are t
 
 ### 🧠 **Technological Interests**
 
-- 🔥 **Current Focus:** Building ML-powered systems that enhance daily life  
-- ⚙️ **Tooling Up:** Low-level optimization techniques | Neural network fundamentals  
-- 🌌 **Future Frontier:** 
-
 ![Future](https://skillicons.dev/icons?i=go,rust,firebase,docker,blender,opencv&theme=dark)  
   *(Actively exploring and learning these technologies)*
 
 ---
 
-### 📜 **Motto?**
+### 📜 **The Motto**
 
 ```python
 def materialize(idea):
