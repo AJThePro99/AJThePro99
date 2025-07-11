@@ -16,7 +16,7 @@ I specialize in building systems that are as enjoyable to maintain as they are t
 
 ---
 
-### Developer Toolbox
+### My Toolbox
 
 **Languages**  
 ![Languages](https://skillicons.dev/icons?i=python,java,kotlin,c,cpp&theme=light&perline=5)
@@ -36,7 +36,7 @@ I specialize in building systems that are as enjoyable to maintain as they are t
 
 ---
 
-###  **Code Statistics**
+###  **My Statistics**
 
 ![](https://komarev.com/ghpvc/?username=AJThePro99&style=flat-square)
   
