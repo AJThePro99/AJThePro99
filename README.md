@@ -4,17 +4,6 @@
 
 </div>
 
----
-
-### **Why I Code**
-
-> *"To me, programming is my magic wand. It's plain wizardry - it's how I turn thoughts in my head into real  
->  tools that people can actually use. Every project is a puzzle where clean code meets clever problem-solving."*
-
-Currently pursuing my Bachelor of Technology in **Computer Science & Engineering** at VelTech University (2023-2027).  
-I specialize in building systems that are as enjoyable to maintain as they are to use.
-
----
 
 ### My Toolbox
 
